@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     it.addEventListener('keydown', e=>{ if(e.key==='Enter') openLightbox(idx) });
   });
 
-n  closeBtn.addEventListener('click', closeLightbox);
+  closeBtn.addEventListener('click', closeLightbox);
   lightbox.addEventListener('click', e=>{ if(e.target===lightbox) closeLightbox(); });
   nextBtn.addEventListener('click', showNext);
   prevBtn.addEventListener('click', showPrev);
