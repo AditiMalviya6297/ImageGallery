@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#8fd3a9" />
+  <circle cx="200" cy="300" r="120" fill="#2f855a" />
+  <rect x="360" y="260" width="280" height="180" rx="18" fill="#065f46"/>
+  <text x="50%" y="80%" text-anchor="middle" font-family="Arial" font-size="40" fill="#072f1a">Nature 1</text>
+</svg>
